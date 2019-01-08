@@ -1,0 +1,23 @@
+{
+  "name": "hxr",
+  "version": "1.0.0",
+  "description": "typescript,xmlhttprequest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzuo/hxr.git"
+  },
+  "keywords": [
+    "typescript",
+    "xmlhttprequest"
+  ],
+  "author": "chanzuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenzuo/hxr/issues"
+  },
+  "homepage": "https://github.com/chenzuo/hxr#readme"
+}
